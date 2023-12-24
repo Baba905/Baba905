@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DIOP Abou</h1>
-<h3 align="center">AI and ML student</h3>
+<h3 align="center">Big data Engineer, Python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baba905&label=Profile%20views&color=0e75b6&style=flat" alt="baba905" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **diopabou@cy-tech.fr**
 
-- ⚡ Fun fact **Python charmer living on Java Island ;)**
+- ⚡ Fun fact **Python charmer 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
